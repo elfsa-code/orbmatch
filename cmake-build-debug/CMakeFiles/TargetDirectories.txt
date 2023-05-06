@@ -1,0 +1,4 @@
+/home/elfsa/hw-day11/hw-day11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/elfsa/hw-day11/hw-day11/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/elfsa/hw-day11/hw-day11/cmake-build-debug/CMakeFiles/hw11.dir
+/home/elfsa/hw-day11/hw-day11/cmake-build-debug/CMakeFiles/ORB.dir
